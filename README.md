@@ -1,2 +1,6 @@
-# CSV-FILE-VALIDATOR
-Validates the csv file
+CSV FILE VALIDATOR
+=======================
+
+> A csv file validation component for React
+
+
